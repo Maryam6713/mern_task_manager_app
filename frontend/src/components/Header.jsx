@@ -46,7 +46,7 @@ const Header = () => {
           <Link to={"/"}>
             <BiTask className="text-3xl mr-4" />
           </Link>
-          <span className="text-xl font-semibold">Task Manager</span>
+          <span className="text-xl font-semibold">TASK MANAGER</span>
         </div>
 
         <div className="flex gap-2">
